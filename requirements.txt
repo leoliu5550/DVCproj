@@ -139,7 +139,6 @@ pip==24.2
 platformdirs==3.11.0
 pluggy==1.5.0
 pre_commit==4.0.1
-prompt-toolkit==3.0.36
 propcache==0.2.0
 proto-plus==1.25.0
 protobuf==5.28.3
