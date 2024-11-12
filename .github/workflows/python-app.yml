@@ -8,9 +8,6 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
-    defults:
-      run:
-        working-directory: ./
     strategy:
       matrix:
         python-version: [3.12]
